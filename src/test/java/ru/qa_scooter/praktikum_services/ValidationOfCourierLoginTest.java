@@ -1,3 +1,5 @@
+/*
+
 package ru.qa_scooter.praktikum_services;
 
 import io.qameta.allure.junit4.DisplayName;
@@ -56,3 +58,4 @@ public class ValidationOfCourierLoginTest {
     }
 
 }
+*/

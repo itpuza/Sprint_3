@@ -1,3 +1,4 @@
+/*
 package ru.qa_scooter.praktikum_services;
 
 import io.qameta.allure.junit4.DisplayName;
@@ -59,4 +60,4 @@ public class CourierCreationTest extends RestAssuredClient {
         assertTrue("Создано два одинаковых курьера", isIdenticalCourierNotCreated);
     }
 
-}
+}*/
